@@ -1,0 +1,5 @@
+studente,media
+marco,10
+matteo,9
+mario,7
+mia,8

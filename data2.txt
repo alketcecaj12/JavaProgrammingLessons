@@ -1,0 +1,4 @@
+azienda,array di prodotti
+granarolo:burro,formaggio,latte
+parmalat:burro,latte,yogurt
+aziendalatticini:latte,yougurt,probiotico
