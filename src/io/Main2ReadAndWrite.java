@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.PrintWriter;
 
-public class Main2Read2 {
+public class Main2ReadAndWrite {
 	
 	public static void main (String [] args){
 		
